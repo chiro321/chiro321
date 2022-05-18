@@ -1,11 +1,9 @@
 # sobre mim
 
 
--   👋 Hi, I’m @chiro321
-  👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  oi eu sou @chiro321
+  estou interessado em aprender novas linguagens
+  eu estou aprendendo a programar recentemente a linguagem de javascript e scratch
 
 <!---
 chiro321/chiro321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
